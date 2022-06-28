@@ -1,10 +1,23 @@
 <h1 align="center"> Hi, there! 🤙 </h1>
 
-<img src="./resources/profile.jpg" width="100" align="right">
+### :frowning_man: About me
 
-<p align="right">I am Felipe. I am currently studying computer engineering and I love learning about new technologies 
-and applying what I have learned to real world solutions. At the moment I am dedicated to learning about various web 
-  technologies, both on the client side and on the server side.</p>
+I am **Felipe**. I am dedicated to learning about various web technologies, both on the 
+client side and on the server side.
+
+
+---
+### :zap: Fun facts
+
+<img src="./resources/profile.jpg" width="150" align="right">
+
+- :bulb: I love learning about new technologies and develop software solutions.
+- :books: I am currently studying **Computer Engineering** at *University of Valley*.
+- :man_student: I have a bachelor's degree in **geology** at *University of Caldas*.
+- :tada: In my free time, I like to watch movies and series, draw things, <br /> 
+         listen anime covers and go for a walk.
+- :rocket: Have look at my ~*website*~.
+
 
 ---
 ### :hammer_and_wrench: Tech stack
@@ -104,14 +117,16 @@ and applying what I have learned to real world solutions. At the moment I am ded
 </table>
 
 
-
 ---
 ### :factory: Projects
-- 
+- *(coming soon)*
 
 
+---
+### :handshake: Connect with me
 
-
+If you have any question, just ask me. You can email me at **anferubu@gmail.com**.
+I will try to respond as soon as possible!
 
 
 <!---
