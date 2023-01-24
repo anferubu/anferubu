@@ -98,8 +98,8 @@ client side and on the server side.
       <p>Selenium</p>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-      <p>Linux</p>
+      <img src="https://img.icons8.com/color/48/debian.png"/>
+      <p>Debian</p>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/console.png"/>
