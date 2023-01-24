@@ -12,7 +12,7 @@ client side and on the server side.
 <img src="./resources/profile.jpg" width="150" align="right">
 
 - :bulb: I love learning about new technologies and develop software solutions.
-- :books: I am currently studying **Computer Engineering** at *University of Valley*.
+- :books: I am currently studying **Computer Engineering** at *University of Valle*.
 - :man_student: I have a bachelor's degree in **geology** at *University of Caldas*.
 - :tada: In my free time, I like to watch movies and series, draw things, <br /> 
          listen anime covers and go for a walk.
