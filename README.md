@@ -29,25 +29,6 @@ client side and on the server side.
       <p>Python</p>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-      <p>JavaScript</p>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-      <p>Java</p>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/>
-      <p>PHP</p>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" width="48"/>
-      <p>SQL</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center">
       <img src="https://img.icons8.com/color/48/000000/django.png"/>
       <p>Django</p>
     </td>
@@ -56,43 +37,20 @@ client side and on the server side.
       <p>Flask</p>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-      <p>React</p>
+      <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/>
+      <p>PHP</p>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-      <p>Boostrap</p>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
-      <p>GitHub</p>
+      <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" width="48"/>
+      <p>Laravel</p>
     </td>
   </tr>
   
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-      <p>PostgreSQL</p>
+      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+      <p>JavaScript</p>
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-      <p>MySQL</p>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-      <p>Linux</p>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
-      <p>Docker</p>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-      <p>VS Code</p>
-    </td>
-  </tr>
-  
-  <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
       <p>HTML</p>
@@ -102,17 +60,52 @@ client side and on the server side.
       <p>CSS</p>
     </td>
     <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+      <p>Boostrap</p>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/tailwindcss.png"/>
+      <p>Tailwind</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" width="48"/>
+      <p>SQL</p>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+      <p>PostgreSQL</p>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+      <p>MySQL</p>
+    </td>
+    <td align="center">
       <img src="https://img.icons8.com/color/48/000000/git.png"/>
       <p>Git</p>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/officel/40/000000/markdown.png"/>
-      <p>Markdown</p>
+      <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
+      <p>Docker</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/office/48/selenium-test-automation.png"/>
+      <p>Selenium</p>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color-glass/48/000000/adobe-illustrator.png"/>
-      <p>Illustrator</p>
+      <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+      <p>Linux</p>
     </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/console.png"/>
+      <p>Bash</p>
+    </td>
+    <td align="center" colspan="2">and much more...</td>
   </tr>
 </table>
 
