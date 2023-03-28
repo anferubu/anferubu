@@ -118,7 +118,7 @@ client side and on the server side.
 ---
 ### :handshake: Connect with me
 
-If you have any question, just ask me. You can email me at **anferubu@gmail.com**.
+If you have any question, just ask me. You can email me at **andres.ruizburitica@gmail.com**.
 I will try to respond as soon as possible!
 
 
