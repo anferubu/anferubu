@@ -16,7 +16,7 @@ client side and on the server side.
 - :man_student: I have a bachelor's degree in **geology** at *University of Caldas*.
 - :tada: In my free time, I like to watch movies and series, draw things, <br /> 
          listen anime covers and go for a walk.
-- :rocket: Have look at my ~*website*~.
+- :rocket: Have look at my [website](https://anferubu.github.io/).
 
 
 ---
